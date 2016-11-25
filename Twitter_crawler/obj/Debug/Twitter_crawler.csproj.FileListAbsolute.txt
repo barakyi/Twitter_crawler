@@ -1,0 +1,4 @@
+C:\Users\חרות\Documents\Visual Studio 2012\Projects\TweetTest\Twitter_crawler\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\חרות\Documents\Visual Studio 2012\Projects\TweetTest\Twitter_crawler\obj\Debug\Twitter_crawler.csproj.ResolveComReference.cache
+C:\Users\חרות\Documents\Visual Studio 2012\Projects\TweetTest\Twitter_crawler\obj\Debug\ConsoleApplication3.exe
+C:\Users\חרות\Documents\Visual Studio 2012\Projects\TweetTest\Twitter_crawler\obj\Debug\ConsoleApplication3.pdb
